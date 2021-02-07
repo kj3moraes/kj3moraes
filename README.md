@@ -1,5 +1,5 @@
 ## Hello there 👋
-I am Keane Moraes. I am a first year university student studying Computer Science at the University of Waterloo. I am extremely interested in cryptography, quantum computing and information security. Recently, I have taken to learning information theory and have delved into Shannon's work. I aspire to do reasearch at the intersection of these fields 
+I am Keane Moraes. I am a first year university student studying Computer Science at the University of Waterloo. I am extremely interested in cryptography, quantum computing and information security. Recently, I have taken to learning information theory and have delved into Shannon's work. I aspire to do reasearch at the intersection of these fields and I am particularly passionate about studying post-quantum cryptography
 
 - 🔭 I’m currently working on my cryptography and quantum computing repositories.
 - 💻 My recent coding adventures are in :
@@ -7,7 +7,7 @@ I am Keane Moraes. I am a first year university student studying Computer Scienc
   * Ethical hacking through TryHackMe's Offensive Pentesting Learning Path
   * Modern Cryptography through Cryptohack and Cryptopals learning modules.
 - 🌱 I’m currently learning about linear algebra, integral calculus and C in first-year uni,
-- 👯 I’m looking to collaborate on building secure and reliable systems. 
+- 👯 I’m looking to collaborate on building secure and reliable systems. I wish to learn more about secure deployable APIs
 - 🤔 I’m looking for help with learning information theory and quantum information processing.
 - 📫 How to reach me:
   * __LinkedIn__ : [Keane Moraes](https://www.linkedin.com/in/keane-moraes-858493167/)
