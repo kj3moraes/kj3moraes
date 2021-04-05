@@ -7,7 +7,7 @@ I am Keane Moraes. I am a first year university student studying Computer Scienc
 - 💻 My recent coding adventures are in :
   * Java through Jetbrains Academy Java Developer Track
   * Ethical hacking through TryHackMe's Offensive Pentesting Learning Path
-  * Modern Cryptography through Cryptohack and Cryptopals learning modules.
+  * Modern Cryptography through Cryptohack and Cryptopals learning modules. I am also sharpening my math and science skills through Brilliant.org
 - 🌱 I’m currently learning about linear algebra, integral calculus and C in first-year uni. Additionally, I am picking up pentesting skills on TryHackMe's learning path. I will be taking Coursera's Cryptography and Information Theory Specialization for Intermediate Learners. I am very excited to study about these fields in more detail.
 - 👯 I’m looking to collaborate on building secure and reliable systems. I wish to learn more about secure deployable APIs
 - 🤔 I’m looking for help with learning information theory and quantum information processing.
