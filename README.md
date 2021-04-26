@@ -3,13 +3,14 @@
 
 I am Keane Moraes. I am a 1B university student studying Computer Science at the University of Waterloo. I am extremely interested in cryptography, quantum computing and information security. Recently, I have taken to learning information theory and have delved into Shannon's work. I aspire to do reasearch at the intersection of these fields and I am particularly passionate about studying post-quantum cryptography
 
-- 🔭 I’m currently working on my cryptography and quantum computing repositories.
+- 🔭 I’m currently working on my cryptography and Jetbrains academy repositories.
 - 💻 My recent coding adventures are in :
   * Java through Jetbrains Academy Java Developer Track
   * Ethical hacking through TryHackMe's Offensive Pentesting Learning Path
-  * Modern Cryptography through Cryptohack and Cryptopals learning modules. I am also sharpening my math and science skills through Brilliant.org
-- 🌱 I’m currently picking up pentesting skills on TryHackMe's learning path. I will be taking Coursera's Cryptography and Information Theory Specialization for Intermediate Learners. I am very excited to study about these fields in more detail.
-- 👯 I’m looking to collaborate on building secure and reliable systems. I wish to learn more about secure deployable APIs
+  * Modern Cryptography through Cryptohack and Cryptopals learning modules. 
+  * Sharpening my math and science skills through Brilliant.org
+- 🌱 I’m currently picking up pentesting skills on TryHackMe's learning path. I will be taking Coursera's Cryptography and Information Theory Specialization for Intermediate Learners by the Uniceristy of Colorado Boulder. I am very excited to study about these fields in more detail.
+- 👯 I’m looking to collaborate on building secure and reliable APIs.
 - 🤔 I’m looking for help with learning information theory and quantum information processing.
 
 
