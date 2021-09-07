@@ -5,12 +5,10 @@ My name is Keane Moraes. I am a 1B university student studying Computer Science 
 
 - 🔭 I’m currently working on my quantum cryptography and Jetbrains academy repositories.
 - 💻 My recent coding adventures are in :
-  * Java through Jetbrains Academy Java Developer Track
-  * Quantum Cryptography through the edX course.
+  * Java GUI Programming through the Java Reference book by Herbert Schildt.
   * Modern Cryptography through Cryptohack and Cryptopals learning modules. 
-  * Sharpening my math and science skills through Brilliant.org
-- 🌱  I will be taking Coursera's Cryptography and Information Theory Specialization for Intermediate Learners by the Uniceristy of Colorado Boulder. I am very excited to study about these fields in more detail. 
-- 👯 I’m looking to collaborate on building secure and reliable APIs.
+  * Sharpening my math and science skills through Brilliant.org 
+- 👯 I’m looking to collaborate on building quantum circuits in Qiskit and / or GUI programming with Swing.
 - 🤔 I’m looking for help with learning information theory and quantum information processing.
 
 ### Technologies and Tools :
