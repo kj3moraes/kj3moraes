@@ -1,7 +1,7 @@
 # Hello there 👋 
 ### General Kenobi!!!
 
-My name is Keane Moraes. I am a 1B university student studying Computer Science at the University of Waterloo. I am extremely interested in cryptography, quantum computing and information security. Recently, I have taken to learning information theory and have delved into Shannon's work. I aspire to do reasearch at the intersection of these fields and I am particularly passionate about studying post-quantum cryptography
+My name is Keane Moraes. I am a 2A university student studying Computer Science at the University of Waterloo. I am extremely interested in cryptography, quantum computing and information security. Recently, I have taken to learning information theory and have delved into Shannon's work. I aspire to do reasearch at the intersection of these fields and I am particularly passionate about studying post-quantum cryptography
 
 - 🔭 I’m currently working on my quantum cryptography and Jetbrains academy repositories.
 - 💻 My recent coding adventures are in :
