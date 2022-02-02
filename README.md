@@ -18,7 +18,7 @@ My name is Keane Moraes. I am a 2B university student studying Computer Science 
 ### Contact Me :
 * Student Email - ![k3moraes@uwaterloo.ca](mailto:k3moraes@uwaterloo.ca)  
 * Professional Email - ![keanejonathan3@gmail.com](mailto:keanejonathan3@gmail.com)  
-* ![LinkedIn](https://www.linkedin.com/in/keane-moraes-858493167/)  
+* ![LinkedIn](https://www.linkedin.com/in/keane-j-moraes-2003/)  
 * ![Stack Exchange](https://stackexchange.com/users/14957124/keane-jonathan)  
 <!--
 
