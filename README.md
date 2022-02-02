@@ -16,10 +16,10 @@ My name is Keane Moraes. I am a 2B university student studying Computer Science 
 
 
 ### Contact Me :
-* Student Email - ![k3moraes@uwaterloo.ca](mailto:k3moraes@uwaterloo.ca)  
-* Professional Email - ![keanejonathan3@gmail.com](mailto:keanejonathan3@gmail.com)  
-* ![LinkedIn](https://www.linkedin.com/in/keane-j-moraes-2003/)  
-* ![Stack Exchange](https://stackexchange.com/users/14957124/keane-jonathan)  
+* Student Email - [k3moraes@uwaterloo.ca](mailto:k3moraes@uwaterloo.ca)  
+* Professional Email - [keanejonathan3@gmail.com](mailto:keanejonathan3@gmail.com)  
+* [LinkedIn](https://www.linkedin.com/in/keane-j-moraes-2003/)  
+* [Stack Exchange](https://stackexchange.com/users/14957124/keane-jonathan)  
 <!--
 
 - [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LordVader31)](https://github.com/anuraghazra/github-readme-stats)
