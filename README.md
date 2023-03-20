@@ -3,10 +3,11 @@
 
 My name is Keane Moraes. I am a 3A university student studying Computer Science at the University of Waterloo. I am extremely interested in cryptography, quantum computing and information security. Recently, I have taken to learning information theory and have delved into Shannon's work. I aspire to do reasearch at the intersection of these fields and I am particularly passionate about studying post-quantum cryptography
 
-- 🔭 I’m currently working on my [verCE project](https://github.com/kj3moraes/verCE)
+- 🔭 I’m currently working as Web Developer at Yet Another Science Podcast and building a new site for them.
+- So of my 
 - 💻 My recent coding adventures are in : 
-  * Sharpening my math and science skills through Brilliant.org 
-  * Golang networking librariies and goroutine exploration via LinkedIn Learnin
+  * Exploring [GraphGPT](https://github.com/kj3moraes/GraphGPT) and studying how it works.
+  * Learning more about transformers and langchain.
 - 🤔 I’m looking for help with learning information theory and building a specialized movie-recommender in Python
 
 ### Technologies and Tools :
