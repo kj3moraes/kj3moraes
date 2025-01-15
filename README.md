@@ -4,7 +4,7 @@ My name is Keane Moraes and I am 4B university student studying Computer Science
 
 - super keen on personal knowledge management, and working on ways to help us ideate better
 - i'm also a photographer and writer
-- currently working on a browser extension to easily share tabs / windows across any device.
+- currently working an indie multiplayer game called [labyrinthian](https://labyrinthiansite.vercel.app/)
 
 
 ### Contact Me :
