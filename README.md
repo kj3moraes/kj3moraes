@@ -1,6 +1,6 @@
 # Hello there 👋 
 
-My name is Keane Moraes and I am 4A university student studying Computer Science at the University of Waterloo.
+My name is Keane Moraes and I am 4B university student studying Computer Science at the University of Waterloo.
 
 - super keen on personal knowledge management, and working on ways to help us ideate better
 - i'm also a photographer and writer
