@@ -9,5 +9,5 @@ My name is Keane Moraes and I am 4B university student studying Computer Science
 
 ### Contact Me :
 * Professional Email - [keanejonathan3@gmail.com](mailto:keanejonathan3@gmail.com)
-* Portfolio - [itskeane.info](https://itskeane.info)
+* Portfolio - [keanemoraes.com](https://itskeane.info)
 * [LinkedIn](https://www.linkedin.com/in/k3moraes/)  
